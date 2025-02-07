@@ -1,4 +1,8 @@
-## Hi there 👋
+# GuSpace 🤓
+## - 📚 Studant of Senai-PP
+## - 👾 I’m currently learning dev
+## - ☁️ Studying AWS and Huawei Ict Competiton
+
 
 <!--
 **gualvesx/gualvesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
