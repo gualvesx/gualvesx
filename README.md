@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gustavo Alves
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor JR`**
 
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=4000&pause=1000&color=efeaa7&width=700&height=100&lines=Bem-vindo+ao+meu+GitHub!" alt="Bem-vindo ao meu GitHub!"/>
