@@ -7,7 +7,9 @@
 </div>
 
 <div align="center">
-  Sou Gustavo Alves, especializado principalmente na área de Nuvem. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
+  Sou Gustavo Alves, especializado principalmente na área de Nuvem. Experiência em AWS e Huawei Cloud, 
+    Competi no SP Skills, até a fase estadual, na área de Cloud,
+    Estou competindo atualmente na Huawei ICT, estou na fase Nacional.
 </div>
 
 ---
@@ -74,6 +76,13 @@
     width="50px"
     style="padding-right: 10px;" 
     src="https://hermes.dio.me/articles/cover/4476ef21-b511-4d40-b7cc-1e1383760600.png"
+      />
+    <img 
+    alt="Huawei"
+    title="Huawei"
+    width="50px"
+    style="padding-right: 10px;" 
+    src="[https://hermes.dio.me/articles/cover/4476ef21-b511-4d40-b7cc-1e1383760600.png](https://media.licdn.com/dms/image/v2/D4D0BAQEOStVjHt3DIg/company-logo_200_200/company-logo_200_200/0/1694800273493?e=2147483647&v=beta&t=w-T5Lhtux8GjSeSnRPmDrmo97IdOIBcXd-xpJ1M8d48)"
       />
 </div>
 
