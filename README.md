@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  Sou Gabriel Gedolin, um desenvolvedor FullStack apaixonado por criar soluções inovadoras e eficientes. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
+  Sou Gustavo Alves, especializado principalmente na área de Nuvem. Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
 </div>
 
 ---
@@ -38,27 +38,7 @@
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
-  <img 
-      alt="TypeScript"
-      title="TypeScript" 
-      width="50px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-  />
-  <img 
-      alt="React"
-      title="React" 
-      width="50px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-  />
-  <img 
-      alt="Next.js" 
-      title="Next.js"
-      width="50px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-  />
+
   <img 
       alt="Bootstrap"
       title="Bootstrap" 
@@ -87,6 +67,14 @@
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
+
+  <img 
+    alt="AWS"
+    title="AWS"
+    width="50px"
+    style="padding-right: 10px;" 
+    src="https://hermes.dio.me/articles/cover/4476ef21-b511-4d40-b7cc-1e1383760600.png"
+      />
 </div>
 
 <br/>
