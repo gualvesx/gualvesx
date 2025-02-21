@@ -8,9 +8,9 @@
 
 <div align="center">
   Sou Gustavo Alves, especializado principalmente na área de Nuvem. Experiência em AWS e Huawei Cloud, 
-    Competi no SP Skills, até a fase estadual, na área de Cloud,
-    Estou competindo atualmente na Huawei ICT, estou na fase Nacional.
 </div>
+##Competi no SP Skills, até a fase estadual, na área de Cloud,
+##Estou competindo atualmente na Huawei ICT, estou na fase Nacional.
 
 ---
 
