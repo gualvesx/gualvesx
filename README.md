@@ -82,7 +82,7 @@
     title="Huawei"
     width="50px"
     style="padding-right: 10px;" 
-    src="[https://hermes.dio.me/articles/cover/4476ef21-b511-4d40-b7cc-1e1383760600.png](https://media.licdn.com/dms/image/v2/D4D0BAQEOStVjHt3DIg/company-logo_200_200/company-logo_200_200/0/1694800273493?e=2147483647&v=beta&t=w-T5Lhtux8GjSeSnRPmDrmo97IdOIBcXd-xpJ1M8d48)"
+    src="https://duolabz.com/wp-content/uploads/2023/09/image-11.png"
       />
 </div>
 
