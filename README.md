@@ -86,7 +86,7 @@
     title="Huawei"
     width="50px"
     style="padding-right: 10px;" 
-    src="https://banner2.cleanpng.com/20180613/oea/aa7jjwsw4.webp"
+    src="https://logodownload.org/wp-content/uploads/2016/09/huawei-logo-0-2048x2048.png"
       />
       
 </div>
