@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/aec52c60-3a9b-4404-af99-d5bcd1c6849e)# 👨🏻‍💻 Gustavo Alves
+# 👨🏻‍💻 Gustavo Alves
 
 **`Desenvolvedor JR`**
 
