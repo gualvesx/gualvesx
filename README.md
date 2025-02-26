@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Gustavo Alves
+![image](https://github.com/user-attachments/assets/aec52c60-3a9b-4404-af99-d5bcd1c6849e)# 👨🏻‍💻 Gustavo Alves
 
 **`Desenvolvedor JR`**
 
@@ -86,7 +86,7 @@
     title="Huawei"
     width="50px"
     style="padding-right: 10px;" 
-    src="https://duolabz.com/wp-content/uploads/2023/09/image-11.png"
+    src="https://duolabz.com/wp-content/uploads/2023/09/image-11.png](https://w7.pngwing.com/pngs/430/40/png-transparent-huawei-symantec-mobile-phones-mobile-world-congress-telecommunication-business-people-logo-business.png"
       />
 </div>
 
