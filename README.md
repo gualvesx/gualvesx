@@ -86,7 +86,7 @@
     title="Huawei"
     width="50px"
     style="padding-right: 10px;" 
-    src="https://logodownload.org/wp-content/uploads/2016/09/huawei-logo-0-2048x2048.png"
+    src="https://spng.pngfind.com/pngs/s/203-2033378_huawei-logo-white-huawei-logo-white-png-transparent.png"
       />
       
 </div>
