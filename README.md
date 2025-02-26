@@ -23,21 +23,21 @@
 </div>
 
 <div align="center">
-  <img 
+<img 
       alt="HTML"
       title="HTML" 
       width="50px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
   />
-  <img 
+<img 
       alt="CSS" 
       title="CSS"
       width="50px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
-  <img 
+<img 
       alt="JavaScript" 
       title="JavaScript"
       width="50px" 
@@ -45,28 +45,28 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
 
-  <img 
+<img 
       alt="Bootstrap"
       title="Bootstrap" 
       width="50px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
   />
-  <img 
+<img 
       alt="SASS" 
       title="SASS"
       width="50px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
   />
-  <img 
+<img 
       alt="Git" 
       title="Git"
       width="50px" 
       style="padding-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
-  <img 
+<img 
       alt="Python" 
       title="Python"
       width="50px" 
@@ -74,20 +74,22 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
 
-  <img 
+<img 
     alt="AWS"
     title="AWS"
     width="50px"
     style="padding-right: 10px;" 
     src="https://hermes.dio.me/articles/cover/4476ef21-b511-4d40-b7cc-1e1383760600.png"
       />
-    <img 
+      
+<img 
     alt="Huawei"
     title="Huawei"
     width="50px"
     style="padding-right: 10px;" 
-    src="[https://duolabz.com/wp-content/uploads/2023/09/image-11.png](https://w7.pngwing.com/pngs/430/40/png-transparent-huawei-symantec-mobile-phones-mobile-world-congress-telecommunication-business-people-logo-business.png](https://w7.pngwing.com/pngs/430/40/png-transparent-huawei-symantec-mobile-phones-mobile-world-congress-telecommunication-business-people-logo-business.png)"
+    src="[https://duolabz.com/wp-content/uploads/2023/09/image-11.png](https://w7.pngwing.com/pngs/430/40/png-transparent-huawei-symantec-mobile-phones-mobile-world-congress-telecommunication-business-people-logo-business.png](https://w7.pngwing.com/pngs/430/40/png-        transparent-huawei-symantec-mobile-phones-mobile-world-congress-telecommunication-business-people-logo-business.png)"
       />
+      
 </div>
 
 <br/>
