@@ -86,7 +86,7 @@
     title="Huawei"
     width="50px"
     style="padding-right: 10px;" 
-    src="https://www.imagemhost.com.br/image/W41GV"
+    src="https://www.imagemhost.com.br/images/2024/04/23/huawei-logo-transparent-13.jpg"
       />
       
 </div>
