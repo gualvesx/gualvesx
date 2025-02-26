@@ -86,7 +86,7 @@
     title="Huawei"
     width="50px"
     style="padding-right: 10px;" 
-    src="https://spng.pngfind.com/pngs/s/203-2033378_huawei-logo-white-huawei-logo-white-png-transparent.png"
+    src="https://www.imagemhost.com.br/image/W41GV"
       />
       
 </div>
