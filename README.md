@@ -86,7 +86,7 @@
     title="Huawei"
     width="50px"
     style="padding-right: 10px;" 
-    src="https://www.imagemhost.com.br/images/2024/04/23/huawei-logo-transparent-13.jpg"
+    src="https://w7.pngwing.com/pngs/430/40/png-transparent-huawei-symantec-mobile-phones-mobile-world-congress-telecommunication-business-people-logo-business.png"
       />
       
 </div>
