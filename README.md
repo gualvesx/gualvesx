@@ -86,7 +86,7 @@
     title="Huawei"
     width="50px"
     style="padding-right: 10px;" 
-    src="[[https://duolabz.com/wp-content/uploads/2023/09/image-11.png](https://w7.pngwing.com/pngs/430/40/png-transparent-huawei-symantec-mobile-phones-mobile-world-congress-telecommunication-business-people-logo-business.png](https://w7.pngwing.com/pngs/430/40/png-        transparent-huawei-symantec-mobile-phones-mobile-world-congress-telecommunication-business-people-logo-business.png)](https://logodownload.org/wp-content/uploads/2016/09/huawei-logo-0.png)"
+    src="https://duolabz.com/wp-content/uploads/2023/09/image-11.png](https://w7.pngwing.com/pngs/430/40/png-transparent-huawei-symantec-mobile-phones-mobile-world-congress-telecommunication-business-people-logo-business.png"
       />
       
 </div>
