@@ -7,13 +7,13 @@
 </div>
 
 <div align="center">
-  Sou Gustavo Alves, especializado principalmente na área de Nuvem. Experiência em AWS e Huawei Cloud, 
+  I'm Gustavo Alves, specialized mainly in the Cloud area. Experience in AWS and Huawei Cloud,
 </div>
 <div align="center">
-  Competi no SP Skills, até a fase estadual, na área de Cloud, 
+  I competed in SP Skills, up to the state stage, in the Cloud area,
 </div>
 <div align="center">
-  Estou competindo atualmente na Huawei ICT, estou na fase Nacional.
+  I am currently competing in Huawei ICT, I am in the National phase.
 </div>
 
 ---
