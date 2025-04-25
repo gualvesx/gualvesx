@@ -13,7 +13,16 @@
  🏅 I competed in SP Skills, up to the state stage, in the Cloud area.
 </div>
 <div align="left">
-✨ I am currently competing in Huawei ICT, I am in the National phase.
+ 💫 I am currently competing in Huawei ICT, I am in the National phase.
+</div>
+<div align="left">
+ 🌳 I'm working on EcoCity, look: https://test-green-iota-34.vercel.app/
+</div>
+<div align="left">
+ 🧑🏻‍💻 I am constantly learning!
+</div>
+<div align="left">
+ ✨ I am currently competing in Huawei ICT, I am in the National phase.
 </div>
 
 ---
