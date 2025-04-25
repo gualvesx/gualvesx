@@ -19,7 +19,10 @@
  🌳 I'm working on EcoCity, look: https://test-green-iota-34.vercel.app/
 </div>
 <div align="left">
- 🗨️ talk to me about <b>AWS, nodejs, ejs and kotlin!</b>
+ 🗨️ Talk to me about <b>AWS, nodejs, ejs and kotlin!</b>
+</div>
+<div align="left">
+ 📧 Contact me: <b>gustavo.sesi.bol@gmail.com</b>
 </div>
 <div align="left">
  🧑🏻‍💻 I am constantly learning!
