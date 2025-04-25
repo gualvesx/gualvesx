@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=49&duration=4000&pause=1000&color=efeaa7&width=700&height=100&lines=Welcome+to+my+GitHub!" alt="Welcome to my GitHub!"/>
 </div>
 
-<div align="center">
+<div align="center-left">
  ☁️ I'm Gustavo Alves, specialized mainly in the Cloud area. Experience in AWS and Huawei Cloud.
 </div>
 <div align="center">
