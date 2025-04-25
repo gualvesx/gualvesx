@@ -19,6 +19,9 @@
  🌳 I'm working on EcoCity, look: https://test-green-iota-34.vercel.app/
 </div>
 <div align="left">
+ 🗨️ talk to me about ** AWS, nodejs, ejs and kotlin! **
+</div>
+<div align="left">
  🧑🏻‍💻 I am constantly learning!
 </div>
 <div align="left">
