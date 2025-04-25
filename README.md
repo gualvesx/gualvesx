@@ -22,7 +22,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gualvesx" alt="gualvesx" /></a> </p>
 
 <div align="center">
-  <h3 style="font-weight: bold; font-size: 30px;">🤖 Linguagens e Tecnologias</h3>
+  <h3 style="font-weight: bold; font-size: 30px;">🤖 Languages ​​and Technologies</h3>
 </div>
 
 <div align="center">
@@ -98,7 +98,7 @@
 <br/>
 
 <div align="center">
-  <h3 style="font-weight: bold; font-size: 30px;">📊 Estatísticas</h3>
+  <h3 style="font-weight: bold; font-size: 30px;">📊 Estatitics</h3>
 </div>
 
 <div align="center" style="background-color: #efeaa7; padding: 10px;">
