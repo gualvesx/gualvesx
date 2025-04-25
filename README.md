@@ -35,7 +35,7 @@
 </div>
 
 ---
- <h3>Social Medias</h3>
+ <h1>Social Medias</h1>
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gualvesx&label=Profile%20views&color=0e75b6&style=flat" alt="gualvesx" /> </p>
