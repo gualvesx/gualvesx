@@ -17,6 +17,9 @@
 </div>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo-ggomes&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo-ggomes" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardo-ggomes" alt="leonardo-ggomes" /></a> </p>
 
 <div align="center">
   <h3 style="font-weight: bold; font-size: 30px;">🤖 Linguagens e Tecnologias</h3>
