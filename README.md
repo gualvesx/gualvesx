@@ -36,7 +36,9 @@
 
 ---
  <h2>Social Medias</h2>
-<img src="https://img.freepik.com/vetores-premium/icone-de-logotipo-de-vetor-do-instagram-logotipo-de-midia-social_901408-392.jpg?semt=ais_hybrid&w=740" alt="Instagram" title="Instagram" width="50px" style="padding-right: 10px;"><p>@guh.alvxs</p>
+<p align="left">
+<a href="https://instagram.com/https://www.instagram.com/guh.alvxs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/guh.alvxs" height="30" width="40" /></a>
+</p>
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gualvesx&label=Profile%20views&color=0e75b6&style=flat" alt="gualvesx" /> </p>
