@@ -98,7 +98,7 @@
 <br/>
 
 <div align="center">
-  <h3 style="font-weight: bold; font-size: 30px;">📊 Estatitics</h3>
+  <h3 style="font-weight: bold; font-size: 30px;">📊 Statistics</h3>
 </div>
 
 <div align="center" style="background-color: #efeaa7; padding: 10px;">
