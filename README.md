@@ -30,6 +30,9 @@
 <div align="left">
  ✨ I am currently competing in Huawei ICT, I am in the National phase.
 </div>
+<div align="left">
+ 👻 Fun fact: I'm really like horror movies, but i'm not brave.
+</div>
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gualvesx&label=Profile%20views&color=0e75b6&style=flat" alt="gualvesx" /> </p>
