@@ -114,7 +114,7 @@
     title="Kotlin"
     width="50px"
     style="padding-right: 10px;" 
-    src="[https://w7.pngwing.com/pngs/430/40/png-transparent-huawei-symantec-mobile-phones-mobile-world-congress-telecommunication-business-people-logo-business.png](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_44f4cd6223b389cff33f217026c7d8e6/kotlin.png)"
+    src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_44f4cd6223b389cff33f217026c7d8e6/kotlin.png"
       />
       
 </div>
