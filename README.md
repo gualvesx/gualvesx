@@ -106,7 +106,7 @@
     align="center" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=gualvesx&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api?username=gualvesx&show_icons=true&theme=highcontrast&include_all_commits=true&cache_seconds=86400" 
   />
 </div>
 <br/>
@@ -115,6 +115,6 @@
     align="center" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gualvesx&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html,css,scss,shell&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gualvesx&theme=highcontrast&layout=compact&custom_title=Top%20Technologies&langs_count=9&hide=html,css,scss,shell&cache_seconds=86400" 
   />
 </div>
