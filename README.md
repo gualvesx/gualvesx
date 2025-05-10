@@ -16,7 +16,7 @@
  💫 I am currently competing in Huawei ICT, I am in the National phase.
 </div>
 <div align="left">
- 🌳 I'm working on EcoCity, look: https://test-green-iota-34.vercel.app/
+ 🌳 I'm working on EcoCity, look: https://ecocity-beta1-1.vercel.app
 </div>
 <div align="left">
  🗨️ Talk to me about <b>AWS, nodejs, ejs and kotlin!</b>
