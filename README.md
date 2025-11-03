@@ -19,7 +19,7 @@
  💫 I am currently competing in Huawei ICT, I am in the National phase.
 </div>
 <div align="left">
- 🌳 I'm working on EcoCity, look: https://github.com/EcoCity-GG/EcoCity
+ 🌳 I'm working on EcoCity, look: https://ecocity-1.vercel.app/
 </div>
 <div align="left">
  🗨️ Talk to me about <b>AWS, nodejs, ejs and kotlin!</b>
