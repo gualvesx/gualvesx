@@ -7,6 +7,7 @@
 
 ### 🚀 Sobre Mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (Unoeste).
+- 👨‍💻 Técnico de TI no Sesi - Faber - CE284
 - ☁️ Especialista em soluções escaláveis com foco em **AWS e Huawei Cloud**.
 - 🏆 Premiado em competições de tecnologia e inovação.
 - 📫 Contato: **gustavo.alves.devtec@gmail.com**
