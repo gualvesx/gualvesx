@@ -2,7 +2,7 @@
 **Desenvolvedor Web & Cloud Enthusiast (AWS)**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=0e75b6&width=600&height=70&lines=Cloud+Computing+Specialist;Full+Stack+Developer;AWS+Academy+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=0e75b6&width=600&height=70&lines=Cloud+Computing+DevOps;Full+Stack+Developer;AWS+Academy+Graduate" alt="Typing SVG" />
 </div>
 
 ### 🚀 Sobre Mim
